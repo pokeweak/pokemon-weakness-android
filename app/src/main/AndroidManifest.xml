@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sloydev.pkweakness">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.sloydev.pkweakness.ui.PkWeaknessApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.view.PokemonListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.view.PokemonDetailActivity"
+            android:theme="@style/OverlayTheme" />
+
+        <activity android:name=".ui.view.AboutActivity" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="619aa8ceeeae55fe071504dca6d386a9d346b6a4" />
+    </application>
+
+</manifest>

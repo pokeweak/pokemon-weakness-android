@@ -1,0 +1,1518 @@
+[
+  {
+    "colorHex": "#82C4A1",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Bulbasaur",
+    "number": 1
+  },
+  {
+    "colorHex": "#88BCC1",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Ivysaur",
+    "number": 2
+  },
+  {
+    "colorHex": "#30787E",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Venusaur",
+    "number": 3
+  },
+  {
+    "colorHex": "#E9AA78",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Charmander",
+    "number": 4
+  },
+  {
+    "colorHex": "#C75140",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Charmeleon",
+    "number": 5
+  },
+  {
+    "colorHex": "#EFA257",
+    "weaknesses": [
+      "rock",
+      "electric",
+      "water"
+    ],
+    "name": "Charizard",
+    "number": 6
+  },
+  {
+    "colorHex": "#5596AF",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Squirtle",
+    "number": 7
+  },
+  {
+    "colorHex": "#A8B9DF",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Wartortle",
+    "number": 8
+  },
+  {
+    "colorHex": "#5778B2",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Blastoise",
+    "number": 9
+  },
+  {
+    "colorHex": "#65984B",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "rock"
+    ],
+    "name": "Caterpie",
+    "number": 10
+  },
+  {
+    "colorHex": "#76A839",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "rock"
+    ],
+    "name": "Metapod",
+    "number": 11
+  },
+  {
+    "colorHex": "#4B4368",
+    "weaknesses": [
+      "rock",
+      "electric",
+      "fire",
+      "flying",
+      "ice"
+    ],
+    "name": "Butterfree",
+    "number": 12
+  },
+  {
+    "colorHex": "#BD9452",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "psychic",
+      "rock"
+    ],
+    "name": "Weedle",
+    "number": 13
+  },
+  {
+    "colorHex": "#9C9452",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "psychic",
+      "rock"
+    ],
+    "name": "Kakuna",
+    "number": 14
+  },
+  {
+    "colorHex": "#7B7B8B",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "psychic",
+      "rock"
+    ],
+    "name": "Beedrill",
+    "number": 15
+  },
+  {
+    "colorHex": "#AC8394",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Pidgey",
+    "number": 16
+  },
+  {
+    "colorHex": "#9C525A",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Pidgeotto",
+    "number": 17
+  },
+  {
+    "colorHex": "#AC945A",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Pidgeot",
+    "number": 18
+  },
+  {
+    "colorHex": "#9C73A4",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Rattata",
+    "number": 19
+  },
+  {
+    "colorHex": "#947B52",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Raticate",
+    "number": 20
+  },
+  {
+    "colorHex": "#A46A6A",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Spearow",
+    "number": 21
+  },
+  {
+    "colorHex": "#7B6262",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Fearow",
+    "number": 22
+  },
+  {
+    "colorHex": "#7B527B",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Ekans",
+    "number": 23
+  },
+  {
+    "colorHex": "#837B94",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Arbok",
+    "number": 24
+  },
+  {
+    "colorHex": "#9C8B4A",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Pikachu",
+    "number": 25
+  },
+  {
+    "colorHex": "#B49C5A",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Raichu",
+    "number": 26
+  },
+  {
+    "colorHex": "#AC9C62",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Sandshrew",
+    "number": 27
+  },
+  {
+    "colorHex": "#AC944A",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Sandslash",
+    "number": 28
+  },
+  {
+    "colorHex": "#8383AC",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Nidoran-f",
+    "number": 29
+  },
+  {
+    "colorHex": "#62839C",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Nidorina",
+    "number": 30
+  },
+  {
+    "colorHex": "#527BA4",
+    "weaknesses": [
+      "ground",
+      "ice",
+      "psychic",
+      "water"
+    ],
+    "name": "Nidoqueen",
+    "number": 31
+  },
+  {
+    "colorHex": "#8B5A8B",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Nidoran-m",
+    "number": 32
+  },
+  {
+    "colorHex": "#946A94",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Nidorino",
+    "number": 33
+  },
+  {
+    "colorHex": "#A46A9C",
+    "weaknesses": [
+      "ground",
+      "ice",
+      "psychic",
+      "water"
+    ],
+    "name": "Nidoking",
+    "number": 34
+  },
+  {
+    "colorHex": "#f6ced5",
+    "weaknesses": [
+      "steel",
+      "poison"
+    ],
+    "name": "Clefairy",
+    "number": 35
+  },
+  {
+    "colorHex": "#A47B83",
+    "weaknesses": [
+      "steel",
+      "poison"
+    ],
+    "name": "Clefable",
+    "number": 36
+  },
+  {
+    "colorHex": "#bc7b5b",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Vulpix",
+    "number": 37
+  },
+  {
+    "colorHex": "#8B8352",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Ninetales",
+    "number": 38
+  },
+  {
+    "colorHex": "#f2cdd7",
+    "weaknesses": [
+      "steel",
+      "poison"
+    ],
+    "name": "Jigglypuff",
+    "number": 39
+  },
+  {
+    "colorHex": "#947B7B",
+    "weaknesses": [
+      "steel",
+      "poison"
+    ],
+    "name": "Wigglytuff",
+    "number": 40
+  },
+  {
+    "colorHex": "#8B4A83",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "psychic",
+      "rock"
+    ],
+    "name": "Zubat",
+    "number": 41
+  },
+  {
+    "colorHex": "#944A8B",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "psychic",
+      "rock"
+    ],
+    "name": "Golbat",
+    "number": 42
+  },
+  {
+    "colorHex": "#7BB45A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Oddish",
+    "number": 43
+  },
+  {
+    "colorHex": "#4A7394",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Gloom",
+    "number": 44
+  },
+  {
+    "colorHex": "#415A7B",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Vileplume",
+    "number": 45
+  },
+  {
+    "colorHex": "#A4526A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "bug",
+      "ice",
+      "poison",
+      "rock"
+    ],
+    "name": "Paras",
+    "number": 46
+  },
+  {
+    "colorHex": "#9C4A6A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "bug",
+      "ice",
+      "poison",
+      "rock"
+    ],
+    "name": "Parasect",
+    "number": 47
+  },
+  {
+    "colorHex": "#625A94",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "psychic",
+      "rock"
+    ],
+    "name": "Venonat",
+    "number": 48
+  },
+  {
+    "colorHex": "#736A8B",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "psychic",
+      "rock"
+    ],
+    "name": "Venomoth",
+    "number": 49
+  },
+  {
+    "colorHex": "#737373",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Diglett",
+    "number": 50
+  },
+  {
+    "colorHex": "#6A6A6A",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Dugtrio",
+    "number": 51
+  },
+  {
+    "colorHex": "#837373",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Meowth",
+    "number": 52
+  },
+  {
+    "colorHex": "#9C8B6A",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Persian",
+    "number": 53
+  },
+  {
+    "colorHex": "#B49452",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Psyduck",
+    "number": 54
+  },
+  {
+    "colorHex": "#4A739C",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Golduck",
+    "number": 55
+  },
+  {
+    "colorHex": "#948B7B",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Mankey",
+    "number": 56
+  },
+  {
+    "colorHex": "#6A5A5A",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Primeape",
+    "number": 57
+  },
+  {
+    "colorHex": "#BDAC8B",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Growlithe",
+    "number": 58
+  },
+  {
+    "colorHex": "#525252",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Arcanine",
+    "number": 59
+  },
+  {
+    "colorHex": "#5A7BB4",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Poliwag",
+    "number": 60
+  },
+  {
+    "colorHex": "#527BB4",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Poliwhirl",
+    "number": 61
+  },
+  {
+    "colorHex": "#5A7BA4",
+    "weaknesses": [
+      "electric",
+      "flying",
+      "grass",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Poliwrath",
+    "number": 62
+  },
+  {
+    "colorHex": "#948B73",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Abra",
+    "number": 63
+  },
+  {
+    "colorHex": "#948B73",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Kadabra",
+    "number": 64
+  },
+  {
+    "colorHex": "#9C947B",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Alakazam",
+    "number": 65
+  },
+  {
+    "colorHex": "#7B8B94",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Machop",
+    "number": 66
+  },
+  {
+    "colorHex": "#83839C",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Machoke",
+    "number": 67
+  },
+  {
+    "colorHex": "#737B8B",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Machamp",
+    "number": 68
+  },
+  {
+    "colorHex": "#73A46A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Bellsprout",
+    "number": 69
+  },
+  {
+    "colorHex": "#73945A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Weepinbell",
+    "number": 70
+  },
+  {
+    "colorHex": "#5A9452",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "name": "Victreebel",
+    "number": 71
+  },
+  {
+    "colorHex": "#4A83A4",
+    "weaknesses": [
+      "electric",
+      "ground",
+      "psychic"
+    ],
+    "name": "Tentacool",
+    "number": 72
+  },
+  {
+    "colorHex": "#7B7373",
+    "weaknesses": [
+      "electric",
+      "ground",
+      "psychic"
+    ],
+    "name": "Tentacruel",
+    "number": 73
+  },
+  {
+    "colorHex": "#7B7373",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Geodude",
+    "number": 74
+  },
+  {
+    "colorHex": "#8B9483",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Graveler",
+    "number": 75
+  },
+  {
+    "colorHex": "#5A5252",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Golem",
+    "number": 76
+  },
+  {
+    "colorHex": "#737B83",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Ponyta",
+    "number": 77
+  },
+  {
+    "colorHex": "#8B4A41",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Rapidash",
+    "number": 78
+  },
+  {
+    "colorHex": "#946A7B",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "electric",
+      "ghost",
+      "grass"
+    ],
+    "name": "Slowpoke",
+    "number": 79
+  },
+  {
+    "colorHex": "#AC7B83",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "electric",
+      "ghost",
+      "grass"
+    ],
+    "name": "Slowbro",
+    "number": 80
+  },
+  {
+    "colorHex": "#A4625A",
+    "weaknesses": [
+      "ground",
+      "fire",
+      "fighting"
+    ],
+    "name": "Magnemite",
+    "number": 81
+  },
+  {
+    "colorHex": "#7B7B7B",
+    "weaknesses": [
+      "ground",
+      "fire",
+      "fighting"
+    ],
+    "name": "Magneton",
+    "number": 82
+  },
+  {
+    "colorHex": "#9CAC52",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Farfetchd",
+    "number": 83
+  },
+  {
+    "colorHex": "#8B836A",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Doduo",
+    "number": 84
+  },
+  {
+    "colorHex": "#A46A62",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock"
+    ],
+    "name": "Dodrio",
+    "number": 85
+  },
+  {
+    "colorHex": "#7B7B7B",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Seel",
+    "number": 86
+  },
+  {
+    "colorHex": "#737B83",
+    "weaknesses": [
+      "electric",
+      "fighting",
+      "grass",
+      "rock"
+    ],
+    "name": "Dewgong",
+    "number": 87
+  },
+  {
+    "colorHex": "#7B6283",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Grimer",
+    "number": 88
+  },
+  {
+    "colorHex": "#6A5A73",
+    "weaknesses": [
+      "ground",
+      "psychic"
+    ],
+    "name": "Muk",
+    "number": 89
+  },
+  {
+    "colorHex": "#6A629C",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Shellder",
+    "number": 90
+  },
+  {
+    "colorHex": "#7B738B",
+    "weaknesses": [
+      "electric",
+      "fighting",
+      "grass",
+      "rock"
+    ],
+    "name": "Cloyster",
+    "number": 91
+  },
+  {
+    "colorHex": "#8B6A94",
+    "weaknesses": [
+      "dark",
+      "ghost",
+      "psychic"
+    ],
+    "name": "Gastly",
+    "number": 92
+  },
+  {
+    "colorHex": "#736283",
+    "weaknesses": [
+      "dark",
+      "ghost",
+      "psychic"
+    ],
+    "name": "Haunter",
+    "number": 93
+  },
+  {
+    "colorHex": "#6A628B",
+    "weaknesses": [
+      "dark",
+      "ghost",
+      "psychic"
+    ],
+    "name": "Gengar",
+    "number": 94
+  },
+  {
+    "colorHex": "#524A5A",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Onix",
+    "number": 95
+  },
+  {
+    "colorHex": "#948B73",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Drowzee",
+    "number": 96
+  },
+  {
+    "colorHex": "#BDAC5A",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Hypno",
+    "number": 97
+  },
+  {
+    "colorHex": "#9C8B8B",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Krabby",
+    "number": 98
+  },
+  {
+    "colorHex": "#736A6A",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Kingler",
+    "number": 99
+  },
+  {
+    "colorHex": "#8B5A62",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Voltorb",
+    "number": 100
+  },
+  {
+    "colorHex": "#AC94A4",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Electrode",
+    "number": 101
+  },
+  {
+    "colorHex": "#736262",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "fire",
+      "flying",
+      "ghost",
+      "ice",
+      "poison"
+    ],
+    "name": "Exeggcute",
+    "number": 102
+  },
+  {
+    "colorHex": "#5A9C5A",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "fire",
+      "flying",
+      "ghost",
+      "ice",
+      "poison"
+    ],
+    "name": "Exeggutor",
+    "number": 103
+  },
+  {
+    "colorHex": "#A48B5A",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Cubone",
+    "number": 104
+  },
+  {
+    "colorHex": "#B4ACAC",
+    "weaknesses": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "name": "Marowak",
+    "number": 105
+  },
+  {
+    "colorHex": "#8B7B7B",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Hitmonlee",
+    "number": 106
+  },
+  {
+    "colorHex": "#9494A4",
+    "weaknesses": [
+      "flying",
+      "psychic",
+      "fairy"
+    ],
+    "name": "Hitmonchan",
+    "number": 107
+  },
+  {
+    "colorHex": "#B4838B",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Lickitung",
+    "number": 108
+  },
+  {
+    "colorHex": "#ACA47B",
+    "weaknesses": [
+      "psychic"
+    ],
+    "name": "Koffing",
+    "number": 109
+  },
+  {
+    "colorHex": "#736273",
+    "weaknesses": [
+      "psychic"
+    ],
+    "name": "Weezing",
+    "number": 110
+  },
+  {
+    "colorHex": "#838B94",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Rhyhorn",
+    "number": 111
+  },
+  {
+    "colorHex": "#7B7B8B",
+    "weaknesses": [
+      "grass",
+      "water",
+      "fighting",
+      "ground",
+      "ice",
+      "steel"
+    ],
+    "name": "Rhydon",
+    "number": 112
+  },
+  {
+    "colorHex": "#B47B83",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Chansey",
+    "number": 113
+  },
+  {
+    "colorHex": "#4A6A83",
+    "weaknesses": [
+      "bug",
+      "fire",
+      "flying",
+      "ice",
+      "poison"
+    ],
+    "name": "Tangela",
+    "number": 114
+  },
+  {
+    "colorHex": "#735A62",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Kangaskhan",
+    "number": 115
+  },
+  {
+    "colorHex": "#528BAC",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Horsea",
+    "number": 116
+  },
+  {
+    "colorHex": "#52839C",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Seadra",
+    "number": 117
+  },
+  {
+    "colorHex": "#ACA4B4",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Goldeen",
+    "number": 118
+  },
+  {
+    "colorHex": "#8B8B94",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Seaking",
+    "number": 119
+  },
+  {
+    "colorHex": "#9C8B4A",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Staryu",
+    "number": 120
+  },
+  {
+    "colorHex": "#736A83",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "electric",
+      "ghost",
+      "grass"
+    ],
+    "name": "Starmie",
+    "number": 121
+  },
+  {
+    "colorHex": "#527394",
+    "weaknesses": [
+      "ghost",
+      "steel",
+      "poison"
+    ],
+    "name": "Mr-mime",
+    "number": 122
+  },
+  {
+    "colorHex": "#739C62",
+    "weaknesses": [
+      "rock",
+      "electric",
+      "fire",
+      "flying",
+      "ice"
+    ],
+    "name": "Scyther",
+    "number": 123
+  },
+  {
+    "colorHex": "#9473A4",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "fire",
+      "ghost",
+      "rock",
+      "steel"
+    ],
+    "name": "Jynx",
+    "number": 124
+  },
+  {
+    "colorHex": "#9C8352",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Electabuzz",
+    "number": 125
+  },
+  {
+    "colorHex": "#AC945A",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Magmar",
+    "number": 126
+  },
+  {
+    "colorHex": "#5A4A4A",
+    "weaknesses": [
+      "fire",
+      "flying",
+      "rock"
+    ],
+    "name": "Pinsir",
+    "number": 127
+  },
+  {
+    "colorHex": "#5A5A83",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Tauros",
+    "number": 128
+  },
+  {
+    "colorHex": "#948B8B",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Magikarp",
+    "number": 129
+  },
+  {
+    "colorHex": "#5A839C",
+    "weaknesses": [
+      "electric",
+      "rock"
+    ],
+    "name": "Gyarados",
+    "number": 130
+  },
+  {
+    "colorHex": "#838383",
+    "weaknesses": [
+      "electric",
+      "fighting",
+      "grass",
+      "rock"
+    ],
+    "name": "Lapras",
+    "number": 131
+  },
+  {
+    "colorHex": "#837394",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Ditto",
+    "number": 132
+  },
+  {
+    "colorHex": "#A48B5A",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Eevee",
+    "number": 133
+  },
+  {
+    "colorHex": "#62A4B4",
+    "weaknesses": [
+      "electric",
+      "grass"
+    ],
+    "name": "Vaporeon",
+    "number": 134
+  },
+  {
+    "colorHex": "#AC9452",
+    "weaknesses": [
+      "ground"
+    ],
+    "name": "Jolteon",
+    "number": 135
+  },
+  {
+    "colorHex": "#AC9C62",
+    "weaknesses": [
+      "ground",
+      "rock",
+      "water"
+    ],
+    "name": "Flareon",
+    "number": 136
+  },
+  {
+    "colorHex": "#4A8B9C",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Porygon",
+    "number": 137
+  },
+  {
+    "colorHex": "#9C946A",
+    "weaknesses": [
+      "grass",
+      "electric",
+      "fighting",
+      "ground"
+    ],
+    "name": "Omanyte",
+    "number": 138
+  },
+  {
+    "colorHex": "#4A8394",
+    "weaknesses": [
+      "grass",
+      "electric",
+      "fighting",
+      "ground"
+    ],
+    "name": "Omastar",
+    "number": 139
+  },
+  {
+    "colorHex": "#836A41",
+    "weaknesses": [
+      "grass",
+      "electric",
+      "fighting",
+      "ground"
+    ],
+    "name": "Kabuto",
+    "number": 140
+  },
+  {
+    "colorHex": "#9C8B6A",
+    "weaknesses": [
+      "grass",
+      "electric",
+      "fighting",
+      "ground"
+    ],
+    "name": "Kabutops",
+    "number": 141
+  },
+  {
+    "colorHex": "#7B6A7B",
+    "weaknesses": [
+      "electric",
+      "ice",
+      "rock",
+      "steel",
+      "water"
+    ],
+    "name": "Aerodactyl",
+    "number": 142
+  },
+  {
+    "colorHex": "#4A7B8B",
+    "weaknesses": [
+      "fighting"
+    ],
+    "name": "Snorlax",
+    "number": 143
+  },
+  {
+    "colorHex": "#395A7B",
+    "weaknesses": [
+      "rock",
+      "electric",
+      "fire",
+      "steel"
+    ],
+    "name": "Articuno",
+    "number": 144
+  },
+  {
+    "colorHex": "#B49C52",
+    "weaknesses": [
+      "ice",
+      "rock"
+    ],
+    "name": "Zapdos",
+    "number": 145
+  },
+  {
+    "colorHex": "#8B5A52",
+    "weaknesses": [
+      "rock",
+      "electric",
+      "water"
+    ],
+    "name": "Moltres",
+    "number": 146
+  },
+  {
+    "colorHex": "#626AA4",
+    "weaknesses": [
+      "dragon",
+      "ice",
+      "fairy"
+    ],
+    "name": "Dratini",
+    "number": 147
+  },
+  {
+    "colorHex": "#5A7394",
+    "weaknesses": [
+      "dragon",
+      "ice",
+      "fairy"
+    ],
+    "name": "Dragonair",
+    "number": 148
+  },
+  {
+    "colorHex": "#8B7341",
+    "weaknesses": [
+      "ice",
+      "dragon",
+      "rock",
+      "fairy"
+    ],
+    "name": "Dragonite",
+    "number": 149
+  },
+  {
+    "colorHex": "#8B6283",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Mewtwo",
+    "number": 150
+  },
+  {
+    "colorHex": "#AC8394",
+    "weaknesses": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "name": "Mew",
+    "number": 151
+  }
+]

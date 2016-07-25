@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/medium</color>
+    <color name="colorPrimaryDark">#3B4F61</color>
+    <color name="colorAccent">@color/medium</color>
+
+    <color name="windowBackground">#EDF3F7</color>
+    <color name="translucent_background">#CC3E4447</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_pokeball">#FF1C1C</color>
+    <color name="icon">#757575</color>
+
+    <color name="member_1_background">#2ECC71</color>
+    <color name="member_2_background">#F24119</color>
+    <color name="member_3_background">#4A90E2</color>
+
+    <color name="darkGreyBlue">#2A3C4B</color>
+    <color name="medium">#4D6478</color>
+    <color name="lightGrey">#999999</color>
+    <color name="lightGreyBlue">#7F95A3</color>
+</resources>

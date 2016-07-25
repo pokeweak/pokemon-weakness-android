@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail.background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="@dimen/detail_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="true"
+        app:cardCornerRadius="@dimen/pokemon_detail_card_corner_radius"
+        app:cardElevation="8dp"
+        app:cardPreventCornerOverlap="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/detail_bottom_margin">
+
+            <FrameLayout
+                android:id="@+id/pokemon_background"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/detail_image_height"
+                android:layout_marginBottom="@dimen/detail_image_bottom_margin"
+                android:background="@drawable/bg_detail_card_image">
+
+                <ImageView
+                    android:id="@+id/pokemon_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:padding="16dp"
+                    tools:src="@drawable/member_pokeball_1" />
+            </FrameLayout>
+
+
+            <TextView
+                android:id="@+id/pokemon_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="?android:textColorSecondary"
+                android:textSize="@dimen/detail_number_text"
+                tools:text="001" />
+
+            <TextView
+                android:id="@+id/pokemon_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-medium"
+                android:textColor="?android:textColorPrimary"
+                android:textSize="@dimen/detail_name_text"
+                tools:text="Bulbasaur" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/detail_weaknesses_top_margin"
+                android:text="Weaknesses"
+                android:textColor="@color/medium"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <com.google.android.flexbox.FlexboxLayout
+                android:id="@+id/detail_weaknesses_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/detail_weaknesses_list_top_margin"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                app:flexWrap="wrap"
+                app:justifyContent="center" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>
+

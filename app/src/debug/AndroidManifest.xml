@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sloydev.pkweakness">
+
+    <application>
+        <activity android:name=".ui.view.GeneratePaletteActivity">
+            <intent-filter>
+                <action android:name="com.sloydev.pkweakness.PALETTE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

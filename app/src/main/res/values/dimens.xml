@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="detail_bottom_margin">32dp</dimen>
+    <dimen name="detail_image_height">150dp</dimen>
+    <dimen name="detail_image_bottom_margin">21dp</dimen>
+    <dimen name="detail_number_text">15sp</dimen>
+    <dimen name="detail_name_text">22sp</dimen>
+    <dimen name="detail_width">300dp</dimen>
+    <dimen name="detail_weaknesses_top_margin">24dp</dimen>
+    <dimen name="detail_weaknesses_list_top_margin">8dp</dimen>
+    <dimen name="pokemon_item_image_padding">8dp</dimen>
+    <dimen name="pokemon_item_image_height">90dp</dimen>
+    <dimen name="pokemon_detail_card_corner_radius">10dp</dimen>
+    <dimen name="pokemon_item_card_corner_radius">4dp</dimen>
+    <dimen name="member_item_card_corner_radius">4dp</dimen>
+    <dimen name="search_bar_height">48dp</dimen>
+    <dimen name="search_bar_height_plus_margin">72dp</dimen>
+    <dimen name="label_pokemon_type_radius">4dp</dimen>
+</resources>

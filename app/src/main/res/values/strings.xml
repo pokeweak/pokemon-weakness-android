@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon Weakness</string>
+    <string name="member_1_name">Alex Bailón</string>
+    <string name="member_2_name">Oscar Durán</string>
+    <string name="member_3_name">Rafa Vázquez</string>
+    <string name="member_1_position">Product\nDesigner</string>
+    <string name="member_2_position">iOS\nDeveloper</string>
+    <string name="member_3_position">Android\nDeveloper</string>
+    <string name="copyright_disclaimer">© 2014 Pokémon. © 1995-2014 Nintendo/Creatures Inc./GAME FREAK Inc. Pokémon, the names of the Pokémon characters, the illustrations of the Pokémon characters and Pokémon Go are trademarks of Nintendo.</string>
+</resources>
